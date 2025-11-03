@@ -1,9 +1,9 @@
 # ModeCake/README.md
 
-# Mode Switch Pie Menu
+# Mode Cake Menu
 
 ## Overview
-The Mode Switch Pie Menu is a Blender addon that provides a customizable pie menu for quickly switching between different modes and selection types in Blender's 3D View.
+The Mode Cake Menu is a Blender addon that provides a customizable pie menu for quickly switching between different modes and selection types in Blender's 3D View.
 
 ## Features
 - Quick access to various modes: Object Mode, Weight Paint, Sculpt Mode, Vertex Paint, Texture Paint, Edge Select, Vertex Select, and Face Select.
